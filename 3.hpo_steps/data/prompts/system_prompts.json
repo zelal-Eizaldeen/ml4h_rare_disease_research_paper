@@ -1,0 +1,5 @@
+{
+    "default": "You are a medical expert. Extract all potential phenotype mentions from the following clinical note. Output a list of phenotypes only."
+
+}
+  
